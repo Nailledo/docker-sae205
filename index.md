@@ -1,45 +1,38 @@
-# 🎉 Bienvenue sur le site le plus DINGUE de l'équipe 6 ! 🥳
+# SAE 2.03 – Projet Docker
+**Groupe 06 | *IUT Le Havre - Cours GIT* | 2025**
 
-> Ce site est généré automatiquement à partir du dépôt **tp3**. Et ouais, t’as bien lu. Automagiquement. ✨
+**Etudiant :**
 
----
-
-## 😺 Qui suis-je ?
-
-Salut ! Moi c’est **Athos** (ou Porthos si c’est pas moi). Je participe à un projet *cryptominable* dans le cadre du **TP3** Git collaboratif.
-
----
-
-## 🔥 Ce que tu trouveras ici :
-
-- ✅ Des blagues nulles mais drôles  
-- ✅ Des mèmes (oui, des vrais)  
-- ✅ Des gifs qui bougent tout seuls  
-- ✅ Du code pas toujours fonctionnel (mais c’est l’intention qui compte)  
-- ✅ Et bien sûr… **LA GLOIRE** 🏆
+- *Ethan Damestoy*
+- *Jonathan Leclerc*
+- *Lucas Leprevost*
+- *William Millereux bienvault*
 
 ---
 
-## 😂 Blague du jour
+## 🔍 Objectif du Projet
 
-> Pourquoi les développeurs n’aiment pas la nature ?  
-> Parce qu’il y a trop de bugs 🐛🌲
-
----
-
-## 📸 Mème du siècle
-
-<img src="assets/chat.jpg" alt="Chat mignon" style="cursor:pointer;" onclick="document.getElementById('miaou').play();">
-<audio id="miaou" src="assets/miaou.mp3"></audio>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vitae sapien a sem bibendum placerat.  
+Ce projet a pour but d’apprendre à conteneuriser une application à l’aide de Docker et de comprendre l'intérêt de l’orchestration de services.
 
 ---
 
-## 📦 Code (presque) utile
+## ⚙️ Technologies Utilisées
 
-```java
-public class CryptoExplosion {
-    public static void main(String[] args) {
-        System.out.println("🚀 Vers la lune avec le BTC !");
-    }
-}
+- Docker 🐳
+- Docker Compose 🧩
+- Linux (Debian 12) 🐧
+- [Autres outils à ajouter ici]
+
+---
+
+## 🧱 Architecture du Projet
+
+```
+plaintext
+    📁 projet-sae-203/
+    ├── backend/
+    ├── frontend/
+    ├── docker-compose.yml
+    └── README.md
 ```
